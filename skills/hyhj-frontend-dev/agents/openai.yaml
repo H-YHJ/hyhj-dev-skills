@@ -1,0 +1,4 @@
+interface:
+  display_name: "HYHJ 前端开发"
+  short_description: "从明确需求到真实可用的前端，沿用项目约定并完成交互、响应式与相应验证"
+  default_prompt: "请使用 $hyhj-frontend-dev，按项目现状完成这项前端开发，并验证实际使用路径。"

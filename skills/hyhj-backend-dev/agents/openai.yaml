@@ -1,0 +1,4 @@
+interface:
+  display_name: "HYHJ 后端开发"
+  short_description: "依照现有技术栈完成后端开发，核验接口契约、数据一致性与真实运行结果"
+  default_prompt: "使用 $hyhj-backend-dev 完成这项后端任务，先核验现有项目与契约，再实现并说明验证结果。"
