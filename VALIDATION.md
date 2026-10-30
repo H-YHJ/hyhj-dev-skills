@@ -14,7 +14,7 @@
 | 常见敏感信息线索与公开文件人工审阅 | 未发现需移除的真实项目资料 |
 | 检查工具的负例验证 | 缺失引用、越出技能边界、共用参考分歧、私有地址和凭据线索均被拒绝 |
 
-检查脚本只识别有限线索，后续新增内容仍须人工审查。GitHub Actions 配置已提供，同一检查命令在本地执行通过；尚未在远端 GitHub 仓库运行。
+检查脚本只识别有限线索，后续新增内容仍须人工审查。同一检查命令在本地与 GitHub Actions 均执行通过。首次发布提交 [a894f93](https://github.com/H-YHJ/hyhj-dev-skills/commit/a894f93f6657ad8201e4ea44618db25db37cd9fe) 于 2026-10-30 通过远端校验，见 [Validate skills 运行记录](https://github.com/H-YHJ/hyhj-dev-skills/actions/runs/41036701714)。后续版本以对应提交的工作流结果为准。
 
 ## 独立任务试用
 
